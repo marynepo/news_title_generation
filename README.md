@@ -1,1 +1,1 @@
-# news_title_generation
+# News Headlines Generation
